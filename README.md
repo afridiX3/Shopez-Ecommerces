@@ -10,6 +10,7 @@
 > - 🌐 **Live Vercel Frontend App**: [https://shopez-ecommerces-blush.vercel.app](https://shopez-ecommerces-blush.vercel.app)
 > - ⚡ **Live Render Backend API**: [https://shopez-ecommerces-rm5z.onrender.com](https://shopez-ecommerces-rm5z.onrender.com)
 > - 📦 **GitHub Repository**: [https://github.com/afridiX3/Shopez-Ecommerces](https://github.com/afridiX3/Shopez-Ecommerces)
+> - 📄 **Project Documentation**: [https://drive.google.com/drive/folders/1zLhWNgh2GI5uOT8Wrbtujp4aeWqyalnS?usp=sharing](https://drive.google.com/drive/folders/1zLhWNgh2GI5uOT8Wrbtujp4aeWqyalnS?usp=sharing)
 > - 🔑 **Pre-configured Admin Account**:
 >   - **Account Email**: `admin@gmail.com`
 >   - **Password**: `admin123`
@@ -241,6 +242,7 @@ npm run dev
 - **Live Vercel Frontend App**: [https://shopez-ecommerces-blush.vercel.app](https://shopez-ecommerces-blush.vercel.app)
 - **Live Render Backend API**: [https://shopez-ecommerces-rm5z.onrender.com](https://shopez-ecommerces-rm5z.onrender.com)
 - **GitHub Repository**: [https://github.com/afridiX3/Shopez-Ecommerces](https://github.com/afridiX3/Shopez-Ecommerces)
+- **Project Documentation**: [https://drive.google.com/drive/folders/1zLhWNgh2GI5uOT8Wrbtujp4aeWqyalnS?usp=sharing](https://drive.google.com/drive/folders/1zLhWNgh2GI5uOT8Wrbtujp4aeWqyalnS?usp=sharing)
 - **Admin Email**: `admin@gmail.com`
 - **Admin Password**: `admin123`
 
